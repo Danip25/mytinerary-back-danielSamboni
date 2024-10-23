@@ -16,8 +16,6 @@ export default {
     if (search) {
       filter.city = { $regex: `\\b${search}`, $options: "i" };
     }
-    // sort ascendant
-    console.log(search, getFavorites, sortByName);
     return citiesModel
       .find(filter)
       .sort(sortByName ? { city: Number(sortByName)  } : {});
