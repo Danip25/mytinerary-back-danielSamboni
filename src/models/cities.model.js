@@ -1,4 +1,4 @@
-import { model, Schema } from "mongoose";
+import { model, Schema } from 'mongoose';
 
 const CitySchema = new Schema({
   city: {
@@ -41,4 +41,7 @@ const CitySchema = new Schema({
   },
 });
 
-export default model("Cities", CitySchema);
+CitySchema.index({ favorite: 1 });
+CitySchema.index({ 'location.lat': 1, 'location.long': 1 });
+
+export default model('Cities', CitySchema);

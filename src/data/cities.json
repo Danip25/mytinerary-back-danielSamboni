@@ -1,153 +1,180 @@
 [
-    {
-      "city": "Rome",
-      "country": "Italy",
-      "place": "Colosseum",
-      "favorite": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg",
-      "description": "Rome, the capital city of Italy, is known for its nearly 3,000 years of globally influential art, architecture, and culture. The Colosseum is an ancient amphitheater and one of the greatest works of Roman engineering and architecture.",
-      "places_to_visit": ["Vatican Museums", "Pantheon", "Roman Forum"],
-      "location": {"lat": 41.890251, "long": 12.492373}
-    },
-    {
-      "city": "New York City",
-      "country": "United States",
-      "place": "Times Square",
-      "favorite": false,
-      "image": "https://cdn.britannica.com/66/154566-050-36E73C15/Times-Square-New-York-City.jpg",
-      "description": "New York City, often simply called New York, is the largest city in the United States. Times Square is a major commercial intersection, tourist destination, and entertainment center known for its bright lights and Broadway shows.",
-      "places_to_visit": ["Central Park", "Statue of Liberty", "Metropolitan Museum of Art"],
-      "location": {"lat": 40.758896, "long": -73.985130}
-    },
-    {
-      "city": "Paris",
-      "country": "France",
-      "place": "Eiffel Tower",
-      "favorite": false,
-      "image": "https://images.skyscrapercenter.com/building/eiffeltower_overall2_mg.jpg",
-      "description": "Paris, France's capital, is a major European city and a global center for art, fashion, and culture. The Eiffel Tower is one of the most recognizable structures in the world and a symbol of France.",
-      "places_to_visit": ["Louvre Museum", "Notre-Dame Cathedral", "Montmartre"],
-      "location": {"lat": 48.858093, "long": 2.294694}
-    },
-    {
-      "city": "Tokyo",
-      "country": "Japan",
-      "place": "Shibuya Crossing",
-      "favorite": false,
-      "image": "https://www.airpano.com/files/shibuya_1_big.jpg",
-      "description": "Tokyo, the capital of Japan, is a bustling metropolis blending traditional and modern elements. Shibuya Crossing is known as the busiest pedestrian crossing in the world.",
-      "places_to_visit": ["Tokyo Tower", "Meiji Shrine", "Asakusa Temple"],
-      "location": {"lat": 35.659487, "long": 139.700044}
-    },
-    {
-      "city": "Machu Picchu",
-      "country": "Peru",
-      "place": "Inca Citadel",
-      "favorite": false,
-      "image": "https://www.auriperu.com/wp-content/uploads/2022/04/Machu-Picchu-citadel-by-Auri-Peru.jpg",
-      "description": "Machu Picchu is an ancient Incan citadel set high in the Andes Mountains in Peru. It is known for its sophisticated dry-stone construction that fuses huge blocks without the use of mortar.",
-      "places_to_visit": ["Huayna Picchu", "Temple of the Sun", "Sacred Valley"],
-      "location": {"lat": -13.163141, "long": -72.544963}
-    },
-    {
-      "city": "Sydney",
-      "country": "Australia",
-      "place": "Sydney Opera House",
-      "favorite": false,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
-      "description": "Sydney, the largest city in Australia, is famous for its harbourfront Sydney Opera House, with a distinctive sail-like design. It is a major hub for arts and culture in the country.",
-      "places_to_visit": ["Sydney Harbour Bridge", "Bondi Beach", "Taronga Zoo"],
-      "location": {"lat": -33.856784, "long": 151.215297}
-    },
-    {
-      "city": "Beijing",
-      "country": "China",
-      "place": "Forbidden City",
-      "favorite": false,
-      "image": "https://magnifissance.com/wp-content/uploads/2021/12/5-%C2%A9-Haiwei-Hu-Getty-1.jpg",
-      "description": "Beijing, the capital of China, is known for its modern architecture as well as historic sites. The Forbidden City is a palace complex that served as the home of emperors for almost 500 years.",
-      "places_to_visit": ["Great Wall of China", "Summer Palace", "Temple of Heaven"],
-      "location": {"lat": 39.916344, "long": 116.397155}
-    },
-    {
-      "city": "Cairo",
-      "country": "Egypt",
-      "place": "Pyramids of Giza",
-      "favorite": false,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
-      "description": "Cairo, the sprawling capital of Egypt, is known for its rich history and culture. The Pyramids of Giza are among the most iconic landmarks in the world, reflecting the power of the ancient Egyptian civilization.",
-      "places_to_visit": ["Egyptian Museum", "Khan El Khalili Bazaar", "Citadel of Saladin"],
-      "location": {"lat": 29.979235, "long": 31.134202}
-    },
-    {
-      "city": "Barcelona",
-      "country": "Spain",
-      "place": "Sagrada Familia",
-      "favorite": false,
-      "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/park-guell-1.jpg",
-      "description": "Barcelona, a vibrant city in Spain's Catalonia region, is known for its art and architecture. The Sagrada Familia is a large unfinished Roman Catholic basilica designed by Antoni Gaudí.",
-      "places_to_visit": ["Park Güell", "Casa Batlló", "La Rambla"],
-      "location": {"lat": 41.403629, "long": 2.174356}
-    },
-    {
-      "city": "London",
-      "country": "United Kingdom",
-      "place": "Big Ben",
-      "favorite": false,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Buckingham_Palace_UK.jpg/1200px-Buckingham_Palace_UK.jpg",
-      "description": "London, the capital of England and the United Kingdom, is a modern city with a history stretching back to Roman times. Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster.",
-      "places_to_visit": ["Tower of London", "Buckingham Palace", "British Museum"],
-      "location": {"lat": 51.500729, "long": -0.124625}
-    },
-    {
-      "city": "Dubai",
-      "country": "United Arab Emirates",
-      "place": "Burj Khalifa",
-      "favorite": false,
-      "image": "https://www.allplan.com/fileadmin/_processed_/6/5/csm_iStock-183346577_NEU_b998568fdd.jpg",
-      "description": "Dubai is a city in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene. The Burj Khalifa is the tallest structure in the world, with a total height of 829.8 m.",
-      "places_to_visit": ["Dubai Mall", "Palm Jumeirah", "Dubai Creek"],
-      "location": {"lat": 25.197197, "long": 55.274376}
-    },
-    {
-      "city": "New Delhi",
-      "country": "India",
-      "place": "India Gate",
-      "favorite": false,
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/7b/c2/picture-clicked-at-the.jpg",
-      "description": "New Delhi, the capital of India, is known for its rich history and monuments. India Gate is a war memorial dedicated to soldiers of the British Indian Army who died in the First World War.",
-      "places_to_visit": ["Qutub Minar", "Lotus Temple", "Red Fort"],
-      "location": {"lat": 28.612864, "long": 77.229295}
-    },
-    {
-      "city": "Berlin",
-      "country": "Germany",
-      "place": "Brandenburg Gate",
-      "favorite": false,
-      "image": "https://media.cntraveler.com/photos/5b914e80d5806340ca438db1/16:9/w_2560,c_limit/BrandenburgGate_2018_GettyImages-549093677.jpg",
-      "description": "Berlin, the capital of Germany, is known for its history, culture, and vibrant nightlife. The Brandenburg Gate is an 18th-century neoclassical monument that has stood through the city's history and symbolizes unity.",
-      "places_to_visit": ["Berlin Wall Memorial", "Reichstag Building", "Museum Island"],
-      "location": {"lat": 52.516275, "long": 13.377704}
-    },
-    {
-      "city": "Rio de Janeiro",
-      "country": "Brazil",
-      "place": "Christ the Redeemer",
-      "favorite": false,
-      "image": "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20231122221124_45448c583eabca7ad6be347939c641312d4ce7570209ad29d3345175aea14fec.jpg",
-      "description": "Rio de Janeiro, a huge seaside city in Brazil, is famous for its Copacabana and Ipanema beaches, the 38m Christ the Redeemer statue atop Mount Corcovado, and the Sugarloaf Mountain.",
-      "places_to_visit": ["Sugarloaf Mountain", "Copacabana Beach", "Maracanã Stadium"],
-      "location": {"lat": -22.951916, "long": -43.210487}
-    },
-    {
-      "city": "Moscow",
-      "country": "Russia",
-      "place": "Red Square",
-      "favorite": false,
-      "image": "https://facts.net/wp-content/uploads/2023/08/17-surprising-facts-about-red-square-1693484542.jpg",
-      "description": "Moscow, the capital of Russia, is known for its historical architecture and cultural landmarks. Red Square is a city square that separates the Kremlin, the official residence of the President, from a historic merchant quarter.",
-      "places_to_visit": ["Saint Basil's Cathedral", "Kremlin", "Bolshoi Theatre"],
-      "location": {"lat": 55.753930, "long": 37.620795}
-    }
-  ]
-  
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "place": "Colosseum",
+    "favorite": false,
+    "image": "https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg",
+    "description": "Rome, the capital city of Italy, is known for its nearly 3,000 years of globally influential art, architecture, and culture. The Colosseum is an ancient amphitheater and one of the greatest works of Roman engineering and architecture.",
+    "places_to_visit": ["Vatican Museums", "Pantheon", "Roman Forum"],
+    "location": { "lat": 41.890251, "long": 12.492373 }
+  },
+  {
+    "city": "New York City",
+    "country": "United States",
+    "place": "Times Square",
+    "favorite": false,
+    "image": "https://cdn.britannica.com/66/154566-050-36E73C15/Times-Square-New-York-City.jpg",
+    "description": "New York City, often simply called New York, is the largest city in the United States. Times Square is a major commercial intersection, tourist destination, and entertainment center known for its bright lights and Broadway shows.",
+    "places_to_visit": [
+      "Central Park",
+      "Statue of Liberty",
+      "Metropolitan Museum of Art"
+    ],
+    "location": { "lat": 40.758896, "long": -73.98513 }
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "place": "Eiffel Tower",
+    "favorite": false,
+    "image": "https://images.skyscrapercenter.com/building/eiffeltower_overall2_mg.jpg",
+    "description": "Paris, France's capital, is a major European city and a global center for art, fashion, and culture. The Eiffel Tower is one of the most recognizable structures in the world and a symbol of France.",
+    "places_to_visit": ["Louvre Museum", "Notre-Dame Cathedral", "Montmartre"],
+    "location": { "lat": 48.858093, "long": 2.294694 }
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "place": "Shibuya Crossing",
+    "favorite": false,
+    "image": "https://www.airpano.com/files/shibuya_1_big.jpg",
+    "description": "Tokyo, the capital of Japan, is a bustling metropolis blending traditional and modern elements. Shibuya Crossing is known as the busiest pedestrian crossing in the world.",
+    "places_to_visit": ["Tokyo Tower", "Meiji Shrine", "Asakusa Temple"],
+    "location": { "lat": 35.659487, "long": 139.700044 }
+  },
+  {
+    "city": "Machu Picchu",
+    "country": "Peru",
+    "place": "Inca Citadel",
+    "favorite": false,
+    "image": "https://www.auriperu.com/wp-content/uploads/2022/04/Machu-Picchu-citadel-by-Auri-Peru.jpg",
+    "description": "Machu Picchu is an ancient Incan citadel set high in the Andes Mountains in Peru. It is known for its sophisticated dry-stone construction that fuses huge blocks without the use of mortar.",
+    "places_to_visit": ["Huayna Picchu", "Temple of the Sun", "Sacred Valley"],
+    "location": { "lat": -13.163141, "long": -72.544963 }
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "place": "Sydney Opera House",
+    "favorite": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
+    "description": "Sydney, the largest city in Australia, is famous for its harbourfront Sydney Opera House, with a distinctive sail-like design. It is a major hub for arts and culture in the country.",
+    "places_to_visit": ["Sydney Harbour Bridge", "Bondi Beach", "Taronga Zoo"],
+    "location": { "lat": -33.856784, "long": 151.215297 }
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "place": "Forbidden City",
+    "favorite": false,
+    "image": "https://magnifissance.com/wp-content/uploads/2021/12/5-%C2%A9-Haiwei-Hu-Getty-1.jpg",
+    "description": "Beijing, the capital of China, is known for its modern architecture as well as historic sites. The Forbidden City is a palace complex that served as the home of emperors for almost 500 years.",
+    "places_to_visit": [
+      "Great Wall of China",
+      "Summer Palace",
+      "Temple of Heaven"
+    ],
+    "location": { "lat": 39.916344, "long": 116.397155 }
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "place": "Pyramids of Giza",
+    "favorite": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "description": "Cairo, the sprawling capital of Egypt, is known for its rich history and culture. The Pyramids of Giza are among the most iconic landmarks in the world, reflecting the power of the ancient Egyptian civilization.",
+    "places_to_visit": [
+      "Egyptian Museum",
+      "Khan El Khalili Bazaar",
+      "Citadel of Saladin"
+    ],
+    "location": { "lat": 29.979235, "long": 31.134202 }
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "place": "Sagrada Familia",
+    "favorite": false,
+    "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/park-guell-1.jpg",
+    "description": "Barcelona, a vibrant city in Spain's Catalonia region, is known for its art and architecture. The Sagrada Familia is a large unfinished Roman Catholic basilica designed by Antoni Gaudí.",
+    "places_to_visit": ["Park Güell", "Casa Batlló", "La Rambla"],
+    "location": { "lat": 41.403629, "long": 2.174356 }
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "place": "Big Ben",
+    "favorite": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Buckingham_Palace_UK.jpg/1200px-Buckingham_Palace_UK.jpg",
+    "description": "London, the capital of England and the United Kingdom, is a modern city with a history stretching back to Roman times. Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster.",
+    "places_to_visit": [
+      "Tower of London",
+      "Buckingham Palace",
+      "British Museum"
+    ],
+    "location": { "lat": 51.500729, "long": -0.124625 }
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "place": "Burj Khalifa",
+    "favorite": false,
+    "image": "https://www.allplan.com/fileadmin/_processed_/6/5/csm_iStock-183346577_NEU_b998568fdd.jpg",
+    "description": "Dubai is a city in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene. The Burj Khalifa is the tallest structure in the world, with a total height of 829.8 m.",
+    "places_to_visit": ["Dubai Mall", "Palm Jumeirah", "Dubai Creek"],
+    "location": { "lat": 25.197197, "long": 55.274376 }
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "place": "India Gate",
+    "favorite": false,
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/7b/c2/picture-clicked-at-the.jpg",
+    "description": "New Delhi, the capital of India, is known for its rich history and monuments. India Gate is a war memorial dedicated to soldiers of the British Indian Army who died in the First World War.",
+    "places_to_visit": ["Qutub Minar", "Lotus Temple", "Red Fort"],
+    "location": { "lat": 28.612864, "long": 77.229295 }
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "place": "Brandenburg Gate",
+    "favorite": false,
+    "image": "https://media.cntraveler.com/photos/5b914e80d5806340ca438db1/16:9/w_2560,c_limit/BrandenburgGate_2018_GettyImages-549093677.jpg",
+    "description": "Berlin, the capital of Germany, is known for its history, culture, and vibrant nightlife. The Brandenburg Gate is an 18th-century neoclassical monument that has stood through the city's history and symbolizes unity.",
+    "places_to_visit": [
+      "Berlin Wall Memorial",
+      "Reichstag Building",
+      "Museum Island"
+    ],
+    "location": { "lat": 52.516275, "long": 13.377704 }
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "place": "Christ the Redeemer",
+    "favorite": false,
+    "image": "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20231122221124_45448c583eabca7ad6be347939c641312d4ce7570209ad29d3345175aea14fec.jpg",
+    "description": "Rio de Janeiro, a huge seaside city in Brazil, is famous for its Copacabana and Ipanema beaches, the 38m Christ the Redeemer statue atop Mount Corcovado, and the Sugarloaf Mountain.",
+    "places_to_visit": [
+      "Sugarloaf Mountain",
+      "Copacabana Beach",
+      "Maracanã Stadium"
+    ],
+    "location": { "lat": -22.951916, "long": -43.210487 }
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "place": "Red Square",
+    "favorite": false,
+    "image": "https://facts.net/wp-content/uploads/2023/08/17-surprising-facts-about-red-square-1693484542.jpg",
+    "description": "Moscow, the capital of Russia, is known for its historical architecture and cultural landmarks. Red Square is a city square that separates the Kremlin, the official residence of the President, from a historic merchant quarter.",
+    "places_to_visit": [
+      "Saint Basil's Cathedral",
+      "Kremlin",
+      "Bolshoi Theatre"
+    ],
+    "location": { "lat": 55.75393, "long": 37.620795 }
+  }
+]

@@ -1,7 +1,7 @@
 export const NotFoundPath = (_, res, __) => {
-    res.status(404).json({ message: "Path not found" });
+  res.status(404).json({ message: 'Path not found' });
 };
 
 export const ErrorHandler = (error, _, res, __) => {
-    res.status(500).json({ message: error.message });
+  res.status(500).json({ message: error.message });
 };

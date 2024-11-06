@@ -11,6 +11,4 @@ router.post('/load', CitiesLoadNotHaveAllFields, controller.createCities);
 router.put('/:id', controller.updateCity);
 router.delete('/:id', controller.deleteCity);
 
-
-
 export default router;
